@@ -1,4 +1,4 @@
-# data-engineering-manual
+# Data-Engineering-Manual
 
 # Overview
 ## What is Data Engineering?
